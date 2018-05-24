@@ -15,14 +15,15 @@ build:
         code: |
           dotnet publish -o publish	 
     - script:
-        name: chmod
-        code: |
-          chmod +x ./docker_entrypoint.sh 
-    - script:
         name: copy binary
         code: |
           cp -r . $WERCKER_OUTPUT_DIR/app 
           cd $WERCKER_OUTPUT_DIR/app
+    - script:
+        name: chmod
+        cwd: $WERCKER_OUTPUT_DIR/app
+        code: |
+          chmod +x ./docker_entrypoint.sh 
 deploy:
   steps:
     - internal/docker-push:
