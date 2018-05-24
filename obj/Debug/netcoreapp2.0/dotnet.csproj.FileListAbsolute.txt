@@ -1,0 +1,11 @@
+/Users/clemm/code/dotnet/bin/Debug/netcoreapp2.0/dotnet.deps.json
+/Users/clemm/code/dotnet/bin/Debug/netcoreapp2.0/dotnet.runtimeconfig.json
+/Users/clemm/code/dotnet/bin/Debug/netcoreapp2.0/dotnet.runtimeconfig.dev.json
+/Users/clemm/code/dotnet/bin/Debug/netcoreapp2.0/dotnet.dll
+/Users/clemm/code/dotnet/bin/Debug/netcoreapp2.0/dotnet.pdb
+/Users/clemm/code/dotnet/obj/Debug/netcoreapp2.0/dotnet.csprojAssemblyReference.cache
+/Users/clemm/code/dotnet/obj/Debug/netcoreapp2.0/dotnet.csproj.CoreCompileInputs.cache
+/Users/clemm/code/dotnet/obj/Debug/netcoreapp2.0/dotnet.AssemblyInfoInputs.cache
+/Users/clemm/code/dotnet/obj/Debug/netcoreapp2.0/dotnet.AssemblyInfo.cs
+/Users/clemm/code/dotnet/obj/Debug/netcoreapp2.0/dotnet.dll
+/Users/clemm/code/dotnet/obj/Debug/netcoreapp2.0/dotnet.pdb
